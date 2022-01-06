@@ -1,0 +1,16 @@
+{
+  "name": "iskou/fizzbuzz",
+    "license": "MIT",
+    "require": {
+    "php": ">=7.4",
+    "symfony/http-client": "^5.4"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
