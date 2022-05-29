@@ -1,0 +1,1 @@
+An optimised solution to the famous fizzbuzz game using php oop and SOLID principles.
